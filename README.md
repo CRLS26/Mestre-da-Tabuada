@@ -28,11 +28,11 @@ O jogo está disponível para Windows, Web e Android, proporcionando acessibilid
 ### 📱 Android
 1. Baixe o arquivo APK : https://github.com/CRLS26/Mestre-da-Tabuada/releases/download/v1.0.0/Mestre.da.tabuada.apk
 2. Instale no seu dispositivo Android
-3. Abra o jogo e comece a aprender brincando!
+3. Abra o jogo!
 
 ### 💻 Windows
 1. Baixe o executável: https://github.com/CRLS26/Mestre-da-Tabuada/releases/download/v1.0.0/Mestre.da.Tabuada_Win32.rar
-2. Execute o arquivo para iniciar o jogo
+2. Execute o arquivo Mestre da tabuada.exe para iniciar o jogo!
 
 ### 🌐 Web
 Acesse a versão online através do link: https://crls26.github.io/Mestre-da-Tabuada/
