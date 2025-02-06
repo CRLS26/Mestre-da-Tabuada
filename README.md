@@ -26,12 +26,12 @@ O jogo está disponível para Windows, Web e Android, proporcionando acessibilid
 
 ## 🔧 Como Executar
 ### 📱 Android
-1. Baixe o arquivo APK [aqui](#) _(substituir pelo link real)_
+1. Baixe o arquivo APK : Ainda em processamento
 2. Instale no seu dispositivo Android
 3. Abra o jogo e comece a aprender brincando!
 
 ### 💻 Windows
-1. Baixe o executável [aqui](#) _(substituir pelo link real)_
+1. Baixe o executável: Ainda em processamento
 2. Execute o arquivo para iniciar o jogo
 
 ### 🌐 Web
