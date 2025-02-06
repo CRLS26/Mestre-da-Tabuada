@@ -42,10 +42,7 @@ Acesse a versão online através do link: https://crls26.github.io/Mestre-da-Tab
 - ✅ Melhorar efeitos sonoros e animações
 - ✅ Implementar sistema de recompensas e conquistas
 
-## 🤝 Contribuição
-Se você deseja contribuir com melhorias ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## 📩 Contato
 Se tiver dúvidas ou quiser saber mais sobre o projeto, entre em contato:
-📧 Email: [seuemail@example.com](mailto:seuemail@example.com)  
-💼 LinkedIn: [Seu Perfil](#) _(substituir pelo link real)_
+📧 Email: carlosteixeiraneto26@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/carlos-neto-861541252/
