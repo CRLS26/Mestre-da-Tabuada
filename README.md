@@ -35,7 +35,7 @@ O jogo está disponível para Windows, Web e Android, proporcionando acessibilid
 2. Execute o arquivo Mestre da tabuada.exe para iniciar o jogo!
 
 ### 🌐 Web
-Acesse a versão online através do link: https://crls26.github.io/Mestre-da-Tabuada/
+Acesse a versão online através do link: https://crls26.github.io/Mestre-da-Tabuada/Web
 
 ## 🛠️ Próximas Melhorias
 - ✅ Adicionar novos desafios e mini games
